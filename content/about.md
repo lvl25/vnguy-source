@@ -10,8 +10,4 @@ title = "About me"
 
 +++
 
-<<<<<<< HEAD
-I'm Luan
-=======
-Hello World!
->>>>>>> d9ec3e34ec20405a67499bb8d88d6ea33b769645
+Hello World 123!
